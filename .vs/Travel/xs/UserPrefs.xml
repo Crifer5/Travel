@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{128C6759-BB03-4BB6-9DEA-CE1DCC6CB70E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Travel PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WebApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infraestructure.Data/Entities/autores_has_libros.cs">
+    <Files>
+      <File FileName="Infraestructure.Data/Migrations/DataBaseContextModelSnapshot.cs" Line="9" Column="27" />
+      <File FileName="Infraestructure.Data/Context/TestContext.cs" Line="9" Column="68" />
+      <File FileName="Services/Services/autoresService.cs" Line="2" Column="7" />
+      <File FileName="Services/Services/editorialesService.cs" Line="2" Column="7" />
+      <File FileName="Infraestructure.Data/Entities/libros.cs" Line="1" Column="1" />
+      <File FileName="Services/Services/librosService.cs" Line="19" Column="1" />
+      <File FileName="Infraestructure.Data/Entities/autores_has_libros.cs" Line="4" Column="11" />
+      <File FileName="../../../../../usr/local/share/dotnet/packs/Microsoft.Android.Sdk.Darwin/32.0.476/tools/Xamarin.Android.Common.targets" Line="2449" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Travel" expanded="True">
+            <Node name="Infraestructure.Data" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Context" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+            </Node>
+            <Node name="Infraestructure.Data" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="autores_has_libros.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Services" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="WebApi" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

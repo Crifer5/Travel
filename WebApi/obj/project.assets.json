@@ -3482,11 +3482,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cristian/Projects/Travel/WebApi/WebApi.csproj",
+      "projectUniqueName": "/Users/cristian/Documents/GitHub/Travel/WebApi/WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "/Users/cristian/Projects/Travel/WebApi/WebApi.csproj",
+      "projectPath": "/Users/cristian/Documents/GitHub/Travel/WebApi/WebApi.csproj",
       "packagesPath": "/Users/cristian/.nuget/packages/",
-      "outputPath": "/Users/cristian/Projects/Travel/WebApi/obj/",
+      "outputPath": "/Users/cristian/Documents/GitHub/Travel/WebApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cristian/.nuget/NuGet/NuGet.Config"
@@ -3502,11 +3502,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
-              "projectPath": "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
+            "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
+              "projectPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
             },
-            "/Users/cristian/Projects/Travel/Services/Services.csproj": {
-              "projectPath": "/Users/cristian/Projects/Travel/Services/Services.csproj"
+            "/Users/cristian/Documents/GitHub/Travel/Services/Services.csproj": {
+              "projectPath": "/Users/cristian/Documents/GitHub/Travel/Services/Services.csproj"
             }
           }
         }

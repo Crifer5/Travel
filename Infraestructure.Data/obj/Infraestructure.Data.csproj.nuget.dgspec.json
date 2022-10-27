@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {}
+    "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {}
   },
   "projects": {
-    "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
+    "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj",
+        "projectUniqueName": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj",
         "projectName": "Infraestructure.Data",
-        "projectPath": "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj",
+        "projectPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj",
         "packagesPath": "/Users/cristian/.nuget/packages/",
-        "outputPath": "/Users/cristian/Projects/Travel/Infraestructure.Data/obj/",
+        "outputPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [

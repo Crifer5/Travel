@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cristian/Projects/Travel/Travel/Travel.csproj": {}
+    "/Users/cristian/Documents/GitHub/Travel/Travel/Travel.csproj": {}
   },
   "projects": {
-    "/Users/cristian/Projects/Travel/Travel/Travel.csproj": {
+    "/Users/cristian/Documents/GitHub/Travel/Travel/Travel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cristian/Projects/Travel/Travel/Travel.csproj",
+        "projectUniqueName": "/Users/cristian/Documents/GitHub/Travel/Travel/Travel.csproj",
         "projectName": "Travel",
-        "projectPath": "/Users/cristian/Projects/Travel/Travel/Travel.csproj",
+        "projectPath": "/Users/cristian/Documents/GitHub/Travel/Travel/Travel.csproj",
         "packagesPath": "/Users/cristian/.nuget/packages/",
-        "outputPath": "/Users/cristian/Projects/Travel/Travel/obj/",
+        "outputPath": "/Users/cristian/Documents/GitHub/Travel/Travel/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cristian/.nuget/NuGet/NuGet.Config"

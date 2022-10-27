@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1UONWYs69tNRiMO/vxuoecBfCImtHPfsFXEeGGwvTD1/oaMq/bTsX6KVm50PRaLFoIFwiHtJO2Jg1Ye/9UO/zw==",
+  "dgSpecHash": "ZmbZBuklgqr7u6V5GRZMWf05Qft88oomrIDydrnW+NeelVA3aNkj33Qg2WGY8lEzgB50wwMO379f32FBz6ItpQ==",
   "success": true,
-  "projectFilePath": "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj",
+  "projectFilePath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj",
   "expectedPackageFiles": [
     "/Users/cristian/.nuget/packages/entityframework/6.4.4/entityframework.6.4.4.nupkg.sha512",
     "/Users/cristian/.nuget/packages/googlegson/2.9.0.1/googlegson.2.9.0.1.nupkg.sha512",

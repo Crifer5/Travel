@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qoOFcMlCdfjWobjY6FD/k5gQHrnBZtkX9xFpWvMBjNXwLJHBiM3Wnh/YakApeZLfgxIfhSPS3VDnnJi7WlRFNg==",
+  "dgSpecHash": "OznjQ5gW7qLGT8WLWMm8SW5XawqSKS3rFL233kpaEbf6rU1lLuCYsf2+UgX3ejlQM0nyUQoSzLlPQKnzdMTmoQ==",
   "success": true,
-  "projectFilePath": "/Users/cristian/Projects/Travel/WebApi/WebApi.csproj",
+  "projectFilePath": "/Users/cristian/Documents/GitHub/Travel/WebApi/WebApi.csproj",
   "expectedPackageFiles": [
     "/Users/cristian/.nuget/packages/entityframework/6.4.4/entityframework.6.4.4.nupkg.sha512",
     "/Users/cristian/.nuget/packages/microsoft.aspnetcore.authentication/2.2.0/microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

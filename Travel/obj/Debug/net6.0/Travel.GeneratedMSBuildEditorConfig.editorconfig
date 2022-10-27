@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Travel
 build_property.RootNamespace = Travel
-build_property.ProjectDir = /Users/cristian/Projects/Travel/Travel/
+build_property.ProjectDir = /Users/cristian/Documents/GitHub/Travel/Travel/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/cristian/Projects/Travel/Travel
+build_property.MSBuildProjectDirectory = /Users/cristian/Documents/GitHub/Travel/Travel
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/cristian/Projects/Travel/Travel/Pages/Error.cshtml]
+[/Users/cristian/Documents/GitHub/Travel/Travel/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/cristian/Projects/Travel/Travel/Pages/Index.cshtml]
+[/Users/cristian/Documents/GitHub/Travel/Travel/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/cristian/Projects/Travel/Travel/Pages/Privacy.cshtml]
+[/Users/cristian/Documents/GitHub/Travel/Travel/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/cristian/Projects/Travel/Travel/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/cristian/Documents/GitHub/Travel/Travel/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/cristian/Projects/Travel/Travel/Pages/_ViewImports.cshtml]
+[/Users/cristian/Documents/GitHub/Travel/Travel/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/cristian/Projects/Travel/Travel/Pages/_ViewStart.cshtml]
+[/Users/cristian/Documents/GitHub/Travel/Travel/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/cristian/Projects/Travel/Travel/Pages/Shared/_Layout.cshtml]
+[/Users/cristian/Documents/GitHub/Travel/Travel/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hbzfmqnza8

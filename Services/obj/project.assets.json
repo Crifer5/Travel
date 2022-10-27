@@ -7985,11 +7985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cristian/Projects/Travel/Services/Services.csproj",
+      "projectUniqueName": "/Users/cristian/Documents/GitHub/Travel/Services/Services.csproj",
       "projectName": "Services",
-      "projectPath": "/Users/cristian/Projects/Travel/Services/Services.csproj",
+      "projectPath": "/Users/cristian/Documents/GitHub/Travel/Services/Services.csproj",
       "packagesPath": "/Users/cristian/.nuget/packages/",
-      "outputPath": "/Users/cristian/Projects/Travel/Services/obj/",
+      "outputPath": "/Users/cristian/Documents/GitHub/Travel/Services/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
@@ -8009,32 +8009,32 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
-              "projectPath": "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
+            "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
+              "projectPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
             }
           }
         },
         "net6.0-android31.0": {
           "targetAlias": "net6.0-android",
           "projectReferences": {
-            "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
-              "projectPath": "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
+            "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
+              "projectPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
             }
           }
         },
         "net6.0-ios16.0": {
           "targetAlias": "net6.0-ios",
           "projectReferences": {
-            "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
-              "projectPath": "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
+            "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
+              "projectPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
             }
           }
         },
         "net6.0-maccatalyst15.4": {
           "targetAlias": "net6.0-maccatalyst",
           "projectReferences": {
-            "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
-              "projectPath": "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
+            "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
+              "projectPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
             }
           }
         }

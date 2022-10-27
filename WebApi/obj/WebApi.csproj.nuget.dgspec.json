@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cristian/Projects/Travel/WebApi/WebApi.csproj": {}
+    "/Users/cristian/Documents/GitHub/Travel/WebApi/WebApi.csproj": {}
   },
   "projects": {
-    "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
+    "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj",
+        "projectUniqueName": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj",
         "projectName": "Infraestructure.Data",
-        "projectPath": "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj",
+        "projectPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj",
         "packagesPath": "/Users/cristian/.nuget/packages/",
-        "outputPath": "/Users/cristian/Projects/Travel/Infraestructure.Data/obj/",
+        "outputPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
@@ -318,14 +318,14 @@
         }
       }
     },
-    "/Users/cristian/Projects/Travel/Services/Services.csproj": {
+    "/Users/cristian/Documents/GitHub/Travel/Services/Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cristian/Projects/Travel/Services/Services.csproj",
+        "projectUniqueName": "/Users/cristian/Documents/GitHub/Travel/Services/Services.csproj",
         "projectName": "Services",
-        "projectPath": "/Users/cristian/Projects/Travel/Services/Services.csproj",
+        "projectPath": "/Users/cristian/Documents/GitHub/Travel/Services/Services.csproj",
         "packagesPath": "/Users/cristian/.nuget/packages/",
-        "outputPath": "/Users/cristian/Projects/Travel/Services/obj/",
+        "outputPath": "/Users/cristian/Documents/GitHub/Travel/Services/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
@@ -345,32 +345,32 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
-                "projectPath": "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
+              "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
+                "projectPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
               }
             }
           },
           "net6.0-android31.0": {
             "targetAlias": "net6.0-android",
             "projectReferences": {
-              "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
-                "projectPath": "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
+              "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
+                "projectPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
               }
             }
           },
           "net6.0-ios16.0": {
             "targetAlias": "net6.0-ios",
             "projectReferences": {
-              "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
-                "projectPath": "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
+              "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
+                "projectPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
               }
             }
           },
           "net6.0-maccatalyst15.4": {
             "targetAlias": "net6.0-maccatalyst",
             "projectReferences": {
-              "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
-                "projectPath": "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
+              "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
+                "projectPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
               }
             }
           }
@@ -576,14 +576,14 @@
         }
       }
     },
-    "/Users/cristian/Projects/Travel/WebApi/WebApi.csproj": {
+    "/Users/cristian/Documents/GitHub/Travel/WebApi/WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cristian/Projects/Travel/WebApi/WebApi.csproj",
+        "projectUniqueName": "/Users/cristian/Documents/GitHub/Travel/WebApi/WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "/Users/cristian/Projects/Travel/WebApi/WebApi.csproj",
+        "projectPath": "/Users/cristian/Documents/GitHub/Travel/WebApi/WebApi.csproj",
         "packagesPath": "/Users/cristian/.nuget/packages/",
-        "outputPath": "/Users/cristian/Projects/Travel/WebApi/obj/",
+        "outputPath": "/Users/cristian/Documents/GitHub/Travel/WebApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cristian/.nuget/NuGet/NuGet.Config"
@@ -599,11 +599,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
-                "projectPath": "/Users/cristian/Projects/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
+              "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
+                "projectPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
               },
-              "/Users/cristian/Projects/Travel/Services/Services.csproj": {
-                "projectPath": "/Users/cristian/Projects/Travel/Services/Services.csproj"
+              "/Users/cristian/Documents/GitHub/Travel/Services/Services.csproj": {
+                "projectPath": "/Users/cristian/Documents/GitHub/Travel/Services/Services.csproj"
               }
             }
           }
