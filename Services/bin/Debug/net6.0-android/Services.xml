@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Services</name>
+    </assembly>
+    <members>
+        <member name="M:Services.Interfaces.IautoresService.GetAllAutores">
+            <summary>
+            Obtiene todos los autores
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Services.Interfaces.IautoresService.GetAutores(System.Int32)">
+            <summary>
+            Obtiene los datos de un autor
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Services.Interfaces.IeditorialesService.GetAllEditoriales">
+            <summary>
+            Obtiene todas las editoriales
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Services.Interfaces.IeditorialesService.GetEditorial(System.Int32)">
+            <summary>
+            Obtiene una editorial
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Services.Interfaces.IlibrosService.GetAllLibros">
+            <summary>
+            Obtiene todos los libros
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Services.Interfaces.IlibrosService.GetLibros(System.Int32)">
+            <summary>
+            Obtiene un libro
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Services.Interfaces.IlibrosService.GetAllLibrosByAutor(System.Int32)">
+            <summary>
+            Obtiene todos los libros de un autor
+            </summary>
+            <param name="autores_id">id del autor</param>
+            <returns></returns>
+        </member>
+        <member name="M:Services.Interfaces.IlibrosService.GetAllLibrosByEditorial(System.Int32)">
+            <summary>
+            Obtiene todos los libros de una editorial
+            </summary>
+            <param name="editoriales_id"> id de la editorial</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

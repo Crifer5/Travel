@@ -1,0 +1,14 @@
+/Users/cristian/Projects/Travel/Infraestructure.Data/bin/Debug/net6.0/Infraestructure.Data.deps.json
+/Users/cristian/Projects/Travel/Infraestructure.Data/bin/Debug/net6.0/Infraestructure.Data.runtimeconfig.json
+/Users/cristian/Projects/Travel/Infraestructure.Data/bin/Debug/net6.0/Infraestructure.Data.dll
+/Users/cristian/Projects/Travel/Infraestructure.Data/bin/Debug/net6.0/Infraestructure.Data.pdb
+/Users/cristian/Projects/Travel/Infraestructure.Data/obj/Debug/net6.0/Infraestructure.Data.csproj.AssemblyReference.cache
+/Users/cristian/Projects/Travel/Infraestructure.Data/obj/Debug/net6.0/Infraestructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cristian/Projects/Travel/Infraestructure.Data/obj/Debug/net6.0/Infraestructure.Data.AssemblyInfoInputs.cache
+/Users/cristian/Projects/Travel/Infraestructure.Data/obj/Debug/net6.0/Infraestructure.Data.AssemblyInfo.cs
+/Users/cristian/Projects/Travel/Infraestructure.Data/obj/Debug/net6.0/Infraestructure.Data.csproj.CoreCompileInputs.cache
+/Users/cristian/Projects/Travel/Infraestructure.Data/obj/Debug/net6.0/Infraestructure.Data.dll
+/Users/cristian/Projects/Travel/Infraestructure.Data/obj/Debug/net6.0/refint/Infraestructure.Data.dll
+/Users/cristian/Projects/Travel/Infraestructure.Data/obj/Debug/net6.0/Infraestructure.Data.pdb
+/Users/cristian/Projects/Travel/Infraestructure.Data/obj/Debug/net6.0/Infraestructure.Data.genruntimeconfig.cache
+/Users/cristian/Projects/Travel/Infraestructure.Data/obj/Debug/net6.0/ref/Infraestructure.Data.dll
