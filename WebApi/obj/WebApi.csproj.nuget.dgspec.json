@@ -1,30 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cristian/Documents/GitHub/Travel/WebApi/WebApi.csproj": {}
+    "C:\\Users\\crife\\source\\repos\\Travel\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
+    "C:\\Users\\crife\\source\\repos\\Travel\\Infraestructure.Data\\Infraestructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj",
+        "projectUniqueName": "C:\\Users\\crife\\source\\repos\\Travel\\Infraestructure.Data\\Infraestructure.Data.csproj",
         "projectName": "Infraestructure.Data",
-        "projectPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj",
-        "packagesPath": "/Users/cristian/.nuget/packages/",
-        "outputPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/obj/",
+        "projectPath": "C:\\Users\\crife\\source\\repos\\Travel\\Infraestructure.Data\\Infraestructure.Data.csproj",
+        "packagesPath": "C:\\Users\\crife\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crife\\source\\repos\\Travel\\Infraestructure.Data\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/cristian/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\crife\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0",
           "net6.0-android",
           "net6.0-ios",
-          "net6.0-maccatalyst"
+          "net6.0-maccatalyst",
+          "net6.0-windows10.0.19041.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,6 +52,10 @@
           },
           "net6.0-maccatalyst15.4": {
             "targetAlias": "net6.0-maccatalyst",
+            "projectReferences": {}
+          },
+          "net6.0-windows10.0.19041": {
+            "targetAlias": "net6.0-windows10.0.19041.0",
             "projectReferences": {}
           }
         },
@@ -111,7 +125,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         },
         "net6.0-android31.0": {
           "targetAlias": "net6.0-android",
@@ -175,7 +189,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         },
         "net6.0-ios16.0": {
           "targetAlias": "net6.0-ios",
@@ -244,7 +258,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         },
         "net6.0-maccatalyst15.4": {
           "targetAlias": "net6.0-maccatalyst",
@@ -314,63 +328,157 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        },
+        "net6.0-windows10.0.19041": {
+          "targetAlias": "net6.0-windows10.0.19041.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.Maui.Dependencies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.541, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.541, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Windows.SDK.BuildTools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.22000.194, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.19041.27, 10.0.19041.27]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/cristian/Documents/GitHub/Travel/Services/Services.csproj": {
+    "C:\\Users\\crife\\source\\repos\\Travel\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cristian/Documents/GitHub/Travel/Services/Services.csproj",
+        "projectUniqueName": "C:\\Users\\crife\\source\\repos\\Travel\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "/Users/cristian/Documents/GitHub/Travel/Services/Services.csproj",
-        "packagesPath": "/Users/cristian/.nuget/packages/",
-        "outputPath": "/Users/cristian/Documents/GitHub/Travel/Services/obj/",
+        "projectPath": "C:\\Users\\crife\\source\\repos\\Travel\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\crife\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crife\\source\\repos\\Travel\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/cristian/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\crife\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0",
           "net6.0-android",
           "net6.0-ios",
-          "net6.0-maccatalyst"
+          "net6.0-maccatalyst",
+          "net6.0-windows10.0.19041.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
-                "projectPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
+              "C:\\Users\\crife\\source\\repos\\Travel\\Infraestructure.Data\\Infraestructure.Data.csproj": {
+                "projectPath": "C:\\Users\\crife\\source\\repos\\Travel\\Infraestructure.Data\\Infraestructure.Data.csproj"
               }
             }
           },
           "net6.0-android31.0": {
             "targetAlias": "net6.0-android",
             "projectReferences": {
-              "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
-                "projectPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
+              "C:\\Users\\crife\\source\\repos\\Travel\\Infraestructure.Data\\Infraestructure.Data.csproj": {
+                "projectPath": "C:\\Users\\crife\\source\\repos\\Travel\\Infraestructure.Data\\Infraestructure.Data.csproj"
               }
             }
           },
           "net6.0-ios16.0": {
             "targetAlias": "net6.0-ios",
             "projectReferences": {
-              "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
-                "projectPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
+              "C:\\Users\\crife\\source\\repos\\Travel\\Infraestructure.Data\\Infraestructure.Data.csproj": {
+                "projectPath": "C:\\Users\\crife\\source\\repos\\Travel\\Infraestructure.Data\\Infraestructure.Data.csproj"
               }
             }
           },
           "net6.0-maccatalyst15.4": {
             "targetAlias": "net6.0-maccatalyst",
             "projectReferences": {
-              "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
-                "projectPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
+              "C:\\Users\\crife\\source\\repos\\Travel\\Infraestructure.Data\\Infraestructure.Data.csproj": {
+                "projectPath": "C:\\Users\\crife\\source\\repos\\Travel\\Infraestructure.Data\\Infraestructure.Data.csproj"
+              }
+            }
+          },
+          "net6.0-windows10.0.19041": {
+            "targetAlias": "net6.0-windows10.0.19041.0",
+            "projectReferences": {
+              "C:\\Users\\crife\\source\\repos\\Travel\\Infraestructure.Data\\Infraestructure.Data.csproj": {
+                "projectPath": "C:\\Users\\crife\\source\\repos\\Travel\\Infraestructure.Data\\Infraestructure.Data.csproj"
               }
             }
           }
@@ -423,7 +531,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         },
         "net6.0-android31.0": {
           "targetAlias": "net6.0-android",
@@ -469,7 +577,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         },
         "net6.0-ios16.0": {
           "targetAlias": "net6.0-ios",
@@ -520,7 +628,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         },
         "net6.0-maccatalyst15.4": {
           "targetAlias": "net6.0-maccatalyst",
@@ -572,38 +680,105 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        },
+        "net6.0-windows10.0.19041": {
+          "targetAlias": "net6.0-windows10.0.19041.0",
+          "dependencies": {
+            "Microsoft.Maui.Dependencies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.541, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.541, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Windows.SDK.BuildTools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.22000.194, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.19041.27, 10.0.19041.27]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/cristian/Documents/GitHub/Travel/WebApi/WebApi.csproj": {
+    "C:\\Users\\crife\\source\\repos\\Travel\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cristian/Documents/GitHub/Travel/WebApi/WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\crife\\source\\repos\\Travel\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "/Users/cristian/Documents/GitHub/Travel/WebApi/WebApi.csproj",
-        "packagesPath": "/Users/cristian/.nuget/packages/",
-        "outputPath": "/Users/cristian/Documents/GitHub/Travel/WebApi/obj/",
+        "projectPath": "C:\\Users\\crife\\source\\repos\\Travel\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\crife\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crife\\source\\repos\\Travel\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/cristian/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\crife\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj": {
-                "projectPath": "/Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/Infraestructure.Data.csproj"
+              "C:\\Users\\crife\\source\\repos\\Travel\\Infraestructure.Data\\Infraestructure.Data.csproj": {
+                "projectPath": "C:\\Users\\crife\\source\\repos\\Travel\\Infraestructure.Data\\Infraestructure.Data.csproj"
               },
-              "/Users/cristian/Documents/GitHub/Travel/Services/Services.csproj": {
-                "projectPath": "/Users/cristian/Documents/GitHub/Travel/Services/Services.csproj"
+              "C:\\Users\\crife\\source\\repos\\Travel\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\crife\\source\\repos\\Travel\\Services\\Services.csproj"
               }
             }
           }
@@ -658,7 +833,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

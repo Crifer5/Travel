@@ -162,3 +162,13 @@
 /Users/cristian/Documents/GitHub/Travel/WebApi/obj/Debug/net6.0/WebApi.pdb
 /Users/cristian/Documents/GitHub/Travel/WebApi/obj/Debug/net6.0/WebApi.genruntimeconfig.cache
 /Users/cristian/Documents/GitHub/Travel/WebApi/obj/Debug/net6.0/ref/WebApi.dll
+C:\Users\crife\source\repos\Travel\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\crife\source\repos\Travel\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crife\source\repos\Travel\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\crife\source\repos\Travel\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\crife\source\repos\Travel\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\crife\source\repos\Travel\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\crife\source\repos\Travel\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\crife\source\repos\Travel\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\crife\source\repos\Travel\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+C:\Users\crife\source\repos\Travel\WebApi\obj\Debug\net6.0\WebApi.pdb

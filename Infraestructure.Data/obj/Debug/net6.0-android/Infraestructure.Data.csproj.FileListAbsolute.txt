@@ -158,3 +158,17 @@
 /Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/obj/Debug/net6.0-android/stamp/_CleanIntermediateIfNeeded.stamp
 /Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/obj/Debug/net6.0-android/stamp/_ConvertResourcesCases.stamp
 /Users/cristian/Documents/GitHub/Travel/Infraestructure.Data/obj/Debug/net6.0-android/stamp/_ResolveLibraryProjectImports.stamp
+C:\Users\crife\source\repos\Travel\Infraestructure.Data\obj\Debug\net6.0-android\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\crife\source\repos\Travel\Infraestructure.Data\obj\Debug\net6.0-android\build.props
+C:\Users\crife\source\repos\Travel\Infraestructure.Data\obj\Debug\net6.0-android\adb.props
+C:\Users\crife\source\repos\Travel\Infraestructure.Data\obj\Debug\net6.0-android\Infraestructure.Data.csproj.AssemblyReference.cache
+C:\Users\crife\source\repos\Travel\Infraestructure.Data\obj\Debug\net6.0-android\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\crife\source\repos\Travel\Infraestructure.Data\obj\Debug\net6.0-android\res.flag
+C:\Users\crife\source\repos\Travel\Infraestructure.Data\obj\Debug\net6.0-android\lp\89\jl\files.cache
+C:\Users\crife\source\repos\Travel\Infraestructure.Data\obj\Debug\net6.0-android\lp\90\jl\files.cache
+C:\Users\crife\source\repos\Travel\Infraestructure.Data\obj\Debug\net6.0-android\lp\91\jl\files.cache
+C:\Users\crife\source\repos\Travel\Infraestructure.Data\obj\Debug\net6.0-android\lp\92\jl\files.cache
+C:\Users\crife\source\repos\Travel\Infraestructure.Data\obj\Debug\net6.0-android\lp\93\jl\files.cache
+C:\Users\crife\source\repos\Travel\Infraestructure.Data\obj\Debug\net6.0-android\Infraestructure.Data.dll
+C:\Users\crife\source\repos\Travel\Infraestructure.Data\obj\Debug\net6.0-android\refint\Infraestructure.Data.dll
+C:\Users\crife\source\repos\Travel\Infraestructure.Data\obj\Debug\net6.0-android\Infraestructure.Data.pdb
